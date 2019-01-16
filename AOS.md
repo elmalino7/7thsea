@@ -2,10 +2,15 @@
 
 ## Présentation
 Chronologiquement, la fin des temps a eu lieu et le vieux monde a été détruit malgré l’alliance des races contre le chaos et la fusion des plus grand héros avec les vents de magie. Sigmar avait notamment fait son come-back en prenant la place de Karl-Franz au moment de sa mort.
+
 Une fois le monde détruit, les vents de magie se sont dispersés et auraient donné naissance aux 8 royaumes mortels où se sont retrouvés ceux qui avaient fusionnés avec ces vents de magie. Sigmar quand à lui a été recueilli par Dracothion (le dragon céleste) avec qui il a sympathisé et fondé son domaine en Azyr où il a placé « Mallus » le noyau de l’ancien monde fait d’un métal unique en son genre désormais appelé la sigmarite.
+
 Le Dracothion a montré les royaumes à Sigmar et les portails qui les relient entre-eux. Sigmar a donc parcourut ces jeunes royaumes et y a retrouvé une partie des anciens dieux et des anciennes incarnations des vents de magie (qui sont désormais l’équivalent de dieux). Ensemble ils ont aidé les différents royaumes à se développer et à instaurer un âge de paix et de prospérité durant des millénaires. C’était l’âge de mythes.
+
 Évidemment, les Dieux du chaos se sont tournés vers ces nouveaux mondes pour en prendre possession et y foutre la merde comme d’hab.
+
 L’alliance de Sigmar a pas mal tenus le coup au début mais entre les peaux-vertes qui ne se tracassent pas trop de qui frapper, Nagash qui a voulu profiter du bordel ambiant pour prendre le contrôle, ... l’alliance a fini par se rompre et a laissé le champs libre au chaos un peu partout. Ce fût l’âge du Chaos durant lequel Sigmar, voyant qu’il ne pouvait plus l’emporter s’est barricader en Azyr et les poches de résistance dans les autres royaumes sont devenues rares.
+
 Bien plus tard, Sigmar a fini de construire ses armées avec Grugni et il envoi ses stormcast un peu partout dans les royaumes pour, dans un premier temps, reprendre le contrôle des portails pour permettre aux armées de l’ordre de voyager facilement à travers les monde et preparer la reconquête. C’est là que commence l’Age de Sigmar.
 
 
@@ -49,8 +54,6 @@ Au milieu des déserts de Shyish, les héros sentent le retour de leurs liens av
 * les royaumes du CHAOS : tout est dit : il n’a pas changé, ni ses occupants, si ce n’est que Slaanesh a disparu et que le rats-cornu y possède désormais son domaine même s’il n’est pas vraiment vu par les autres Dieux du chaos comme leur égal.
 
 ##Shyish
-
-{img fileId="3"}
 
 ##Cour des cannibales
 
