@@ -27,11 +27,11 @@ Les joueurs jouent aussi, en parallèle, des futurs champions de leurs dieux. Il
 
 # Campagne
 
-##Principe
+## Principe
 Une ancienne déesse, la Dame du Lac, qui souhaite à la fois se venger de Sigmar (qui a abandonné ses chevaliers aux vampires) et de Manfred (pour la mort de son peuple et de sa fille Morgan). Son plan inclus la résurgence d'un panthéon concurrent, sous son contrôle.
 Pour cela, elle a repéré un groupe d'anciennes âmes bretonniennes et décide d'influencer leur vie via leurs rêves.
 
-##Suite de scénarios
+## Suite de scénarios
 
 ### Acte I
 Les héros se réveillent au sein de la cité de Shadespire. Ils ne savent pas comment ils sont arrivés là et leur souvenir sont flous. Ils vont devoir s'en échappé avec l'aide de la princesse Sadila.
@@ -53,8 +53,8 @@ Au milieu des déserts de Shyish, les héros sentent le retour de leurs liens av
 * royaume d'ULGU : Royaume de l’ombre où se trouve Malerion (nouveau nom de Malékith, nouveau dieu), et Morathi qui a apparemment survécu à sa rencontre avec Slaanesh et se serait assagi pour reconnaitre ses erreurs passées et lutter avec son fils contre le chaos.
 * les royaumes du CHAOS : tout est dit : il n’a pas changé, ni ses occupants, si ce n’est que Slaanesh a disparu et que le rats-cornu y possède désormais son domaine même s’il n’est pas vraiment vu par les autres Dieux du chaos comme leur égal.
 
-##Shyish
+## Shyish
 
-##Cour des cannibales
+## Cour des cannibales
 
 Cachés parmi les ruines des royaumes mortels, les membres de la cour des cannibales prospèrent. Liés par la folie de leurs Rois-Goules, des foules de mordants vivent leur vie pitoyable en se régalant des cadavres fournis par les guerres sans fin et les luttes de royaumes.
