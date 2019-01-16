@@ -1,2 +1,4 @@
-# 7thsea
-RPG Campaign creation
+# RPG Campaigns
+- 7th Sea
+- Age of Sigmar
+- Infinity
